@@ -1,6 +1,6 @@
-**Name: Prakhar Bhardwaj**\
-**Reg No: 23MEI10051**\
-**Application no: IN26011412**\
+**Name: Vyahruthi Goturu**\
+**Reg No: 23BSA10134**\
+**Application no: IN26011597**\
 **Batch Number: 1(A)**
 
 # AI-ML-Assignment-2
